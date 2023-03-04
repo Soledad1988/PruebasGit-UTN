@@ -1,3 +1,5 @@
 Pruba git
 Clonar del repositorio remoto
 y guardar cambios.
+
+Cambios desde remoto a repositorio local.
