@@ -1,1 +1,3 @@
 Pruba git
+Clonar del repositorio remoto
+y guardar cambios.
